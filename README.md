@@ -9,6 +9,8 @@
 
 - [Technologies-Used](#technologies-used)
 
+- [Screenshots](#screenshots)
+
 - [License](#license)
 
 - [Questions](#questions)
@@ -24,6 +26,26 @@ To build this text editor, you will start with an existing application and imple
 
 There are a few technologies that were utilized as bases for this project: Express.js, Node.js, JavaScript, MongoDB, and Mongoose, MongoDB Compass helped to visualize the data. Additionally, Insomnia application,was used to test the CRUD functionality.
 
+
+## Screenshots
+
+NPM RUN START 
+![alt text](./Assets/Run-01.jpg) 
+
+Manifest
+![alt text](./Assets/ApplicationManifest-01.jpg)
+
+Service Workers
+![alt text](./Assets/ServiceWorkers-01.jpg)
+
+Storage
+![alt text](./Assets/Storage-01.jpg)
+
+Local Storage
+![alt text](./Assets/LocalStorage-01.jpg)
+
+Jate Database Table
+![alt text](./Assets/JateDatabaseTable-01.jpg)
 
 ## License
 
