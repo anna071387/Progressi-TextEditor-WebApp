@@ -13,7 +13,9 @@
 
 - [License](#license)
 
-- [Questions](#questions)
+- [Contact](#contact)
+
+- [Resources](#resources)
 
 ## Description
 
@@ -54,6 +56,8 @@ MIT License
 
 ## Contact
 
-
 [Link to Github](https://github.com/anna071387)
 
+## Resources
+
+Starter code provided by The University of Utah EDX Bootcamp program.
